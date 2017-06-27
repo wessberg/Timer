@@ -1,0 +1,5 @@
+.idea
+tsconfig.*
+/src/
+/test/
+/compiled/
